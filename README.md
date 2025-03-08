@@ -7,7 +7,9 @@ Nome: alexandre ferrerira borges oliveira
 Matricula: 1596233
 
 ## Tela de inspeção com navegador
+![image (1)](https://github.com/user-attachments/assets/bd809b31-6da8-4d54-8919-53f07ad7daa4)
 
 
 ## Tela de projeto no Replit
+![image](https://github.com/user-attachments/assets/63b013cd-3e1e-4c13-980f-4d2a3accd54c)
 
