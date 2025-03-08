@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Alexandre Ferreira Borges Oliveira
+Matricula: 1596233
 
 ## Tela de inspeção com navegador
+![image (1)](https://github.com/user-attachments/assets/5abe0e93-8a71-4b3f-bbbb-f386b2f0e7a8)
 
 
 ## Tela de projeto no Replit
+![image](https://github.com/user-attachments/assets/0978faca-f31e-4818-a0d5-71997197d885)
 
